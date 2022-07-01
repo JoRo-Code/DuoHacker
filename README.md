@@ -13,7 +13,7 @@ Provides automatic XP-farming for Duolingo
 
 1. Install a userscript manager (UM) like [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/get-it/)
 2. Add a duo solver like [DuoHacker](https://github.com/smintf/duohacker/) to your UM
-3. Add `redirector.js` to your UM
+3. Add `redirector.js` to your UM by installing it from [Greasyfork](https://greasyfork.org/en/scripts/447295-duolingo-farmer-redirector)
 4. Log in to your duolingo-account in your UM installed web browser
 5. Enable your DuoHacker and redirector in your UM
 6. Add more windows to speed up the farming!
